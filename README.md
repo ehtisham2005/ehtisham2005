@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ehtisham2005
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning Btech in electrical and computer science engineering 
+- 🌱 I’m currently pursuing Btech in electrical and computer science engineering 
 - 💞️ I’m looking to collaborate on projects related to machine learning 
 - 📫 How to reach me my mail(ehti1233@gmail.com)
 - 😄 Pronouns: ...
